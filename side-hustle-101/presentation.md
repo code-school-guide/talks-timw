@@ -105,4 +105,9 @@ Side hustles can be rad. They can also suck the life out of you. Make sure to co
 
 ---
 
-# **Q&A**
+
+## Thank You
+
+> Time for Q&A
+
+> For more resources visit [codeschoolguide.com](#).
