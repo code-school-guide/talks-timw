@@ -7,6 +7,20 @@ slide-transition: true
 
 # 👋 Hi, I'm Tim
 
+- Work at New Story - [newstorycharity.org](https://newstorycharity.org)
+- Helped launch a code school
+- Wrote Code School Book - [codeschoolbook.com](https://codeschoolbook.com)
+- Coding since 2003
+- Enjoy Scotch and Synthwave
+
+---
+
+# 🤔 Who are you?
+
+- You are in, about to be in or recently graduated from a code school
+- You enjoy writing code and building things
+- You have some extra free time
+
 ---
 
 
@@ -40,8 +54,8 @@ slide-transition: true
 
 - Meetup Groups
 - Friends & Family
-- Slack or Discord Groups (Tech 404) - [tech404.io](#)
-- Freelancer Sites - [gun.io](#)
+- Slack or Discord Groups (Tech 404) - [tech404.io](https://tech404.io)
+- Freelancer Sites - [gun.io](https://gun.io)
 
 ^ You'll notice that community is one of the best ways to find a good gig.
 
@@ -55,16 +69,16 @@ slide-transition: true
 
 ---
 
+# **BE CAREFUL WORKING FOR EQUITY ONLY**
+
+---
+
 ## Who to Work With
 
 - Friends
 - Community Members
 - Co-Workers
 - Solo
-
----
-
-# **BE CAREFUL WORKING FOR EQUITY ONLY**
 
 ---
 
@@ -91,11 +105,9 @@ slide-transition: true
 
 ## Logistics
 
-- Should you start a business? - [howtostartanllc.com](#)
+- Should you start a business? - [howtostartanllc.com](https://howtostartanllc.com)
 - Taxes (W9) : SSN vs EIN
 - Tax Write Offs
-
-^ Some people get an LLC just to avoid giving out their SSN or to protect themselves a bit more.
 
 ---
 
@@ -110,4 +122,6 @@ Side hustles can be rad. They can also suck the life out of you. Make sure to co
 
 > Time for Q&A
 
-> For more resources visit [codeschoolguide.com](#).
+> Connect with me at [timw.co](https://timw.co) or email [tim@timw.co](#)
+
+> For more resources visit [codeschoolguide.com](https://codeschoolguide.com).
